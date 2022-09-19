@@ -1,0 +1,21 @@
+{
+  "name": "advent-js",
+  "version": "1.0.0",
+  "description": "25 días de challenges en JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nujovich/advent-js-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nujovich/advent-js-challenges/issues"
+  },
+  "homepage": "https://github.com/nujovich/advent-js-challenges#readme"
+}
